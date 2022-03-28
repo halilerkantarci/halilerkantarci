@@ -4,7 +4,7 @@
 <a href="https://github.com/halilerkantarci/halil_erkantarci.github.io" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=halilerkantarci" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠     ZAMANLA DÜZENLENECEK KISIM
+### What I'm using ? 🛠    
 
 I prefer React & React Native for web/mobile front-end development.
 <br/>
